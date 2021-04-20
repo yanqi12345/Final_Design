@@ -1,0 +1,15 @@
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\bin\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.deps.json
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\bin\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\bin\Debug\net5.0\ref\OnMallBackStage.EntityFrameworkCore.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\bin\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.pdb
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\bin\Debug\net5.0\OnMallBackStage.Domain.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\bin\Debug\net5.0\OnMallBackStage.Domain.pdb
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\obj\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\obj\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\obj\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\obj\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\obj\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\obj\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\obj\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\obj\Debug\net5.0\ref\OnMallBackStage.EntityFrameworkCore.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.EntityFrameworkCore\obj\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.pdb

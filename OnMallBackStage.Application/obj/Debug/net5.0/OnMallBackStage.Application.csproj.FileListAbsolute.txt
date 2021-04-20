@@ -1,0 +1,17 @@
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\bin\Debug\net5.0\OnMallBackStage.Application.deps.json
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\bin\Debug\net5.0\OnMallBackStage.Application.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\bin\Debug\net5.0\ref\OnMallBackStage.Application.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\bin\Debug\net5.0\OnMallBackStage.Application.pdb
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\bin\Debug\net5.0\OnMallBackStage.Domain.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\bin\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\bin\Debug\net5.0\OnMallBackStage.EntityFrameworkCore.pdb
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\bin\Debug\net5.0\OnMallBackStage.Domain.pdb
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\obj\Debug\net5.0\OnMallBackStage.Application.csprojAssemblyReference.cache
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\obj\Debug\net5.0\OnMallBackStage.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\obj\Debug\net5.0\OnMallBackStage.Application.AssemblyInfoInputs.cache
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\obj\Debug\net5.0\OnMallBackStage.Application.AssemblyInfo.cs
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\obj\Debug\net5.0\OnMallBackStage.Application.csproj.CoreCompileInputs.cache
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\obj\Debug\net5.0\OnMallBackStage.Application.csproj.CopyComplete
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\obj\Debug\net5.0\OnMallBackStage.Application.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\obj\Debug\net5.0\ref\OnMallBackStage.Application.dll
+C:\Users\Danica\Desktop\Final_Design\OnMallBackStage\OnMallBackStage.Application\obj\Debug\net5.0\OnMallBackStage.Application.pdb
